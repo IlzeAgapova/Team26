@@ -1,3 +1,5 @@
 # Team26
 SUPER Great team :)
-# do you see this? 
+
+Madara Pētersone / small description
+I am... I work. And we write a few lines about ourselves. 
