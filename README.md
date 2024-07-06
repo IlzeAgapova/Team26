@@ -5,3 +5,4 @@ Madara Pētersone - freelance composer, event organiser, teacher. Living in Liep
 
 Elīna Grišule - Business analyst, IT team leader located in Switzerland and having fun finding new horizons in programming. 
 
+Jekaterina Gromova - Currently business finance support, IT world explorer, proud mom of two (human and a dog :)).
