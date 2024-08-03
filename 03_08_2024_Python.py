@@ -52,7 +52,7 @@ print(f'The Pokemon with the longest name (excluding spaces) is {longest_name}.'
 
 
 
-img = mpimg.imread('path/to/your/image.jpg')
+img = mpimg.imread('Screenshot 2024-08-03 125802.jpg')
 plt.imshow(img)
 plt.axis('off')
 plt.show()
