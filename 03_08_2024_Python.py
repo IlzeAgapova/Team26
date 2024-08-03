@@ -51,5 +51,5 @@ longest_name = longest_name_pokemon['Name']
 print(f'The Pokemon with the longest name (excluding spaces) is {longest_name}.')
 
 
-Result: 
 
+![Result](https://github.com/IlzeAgapova/Team26/blob/main/Screenshot%202024-08-03%20125802.jpg)
